@@ -1,0 +1,1 @@
+É necessário importar o sql em seu servidor de banco de dados antes de fazer os testes.
